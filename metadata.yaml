@@ -1,0 +1,39 @@
+_repo: Mailta-ja-vesilta_72012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Böök, A. Th. (Albert Theodor)
+    aliases:
+    - Book, A. Th. (Albert Theodor)
+    - Böök, Albert Theodor
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '56500'
+    url: http://www.gutenberg.org/2009/agents/56500
+    wikipedia: https://fi.wikipedia.org/wiki/Albert_Theodor_B%C3%B6%C3%B6k
+description: ''
+gutenberg_issued: '2023-11-02'
+identifiers:
+  gutenberg: '72012'
+language: fi
+pgterms:marc905: 20231022075049bk
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: 'Töyryn mylläri -- Metsoja ampumassa -- Pomppe: valiokoira -- Ukkossade
+  -- Hieta-ampiainen metsästäjänä -- Vähän metsästäjäkavereista -- Felis domestica
+  -- Myöhäissyksyinen eräretki Hämeen salomaille -- "Vanha isäntä" -- Retkeilyjä Pohjanmaan
+  lakeuksilla ja rantamailla -- Muuan metsästysretki Päijänteen saariin -- Onnistunut
+  kalastusretki Lummeneeseen -- Talviyön elämää Pohjolassa -- Ketun urotyö -- Kasvikunnan
+  etuvartijat -- Villit eläimet kotieläiminä -- Loppusanat: tällä kertaa.'
+title: Mailta ja vesiltä
+url: http://www.gutenberg.org/ebooks/72012
